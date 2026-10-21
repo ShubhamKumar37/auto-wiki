@@ -12,6 +12,7 @@
   "dependencies": {
     "dotenv": "^18.0.6",
     "express": "^5.2.1",
+    "inngest": "^4.25.0",
     "nodemon": "^3.1.14",
     "openai": "^7.30.0"
   }
